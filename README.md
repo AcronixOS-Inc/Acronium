@@ -1,5 +1,5 @@
 # Acronium
-Acronium is a linux distribution, based on Linux Mint and working on LXDE/Openbox technologies
+Acronium is a linux distribution, based on Linux Mint and working on LXDE/iceWM technologies
 ### What's the LXDE?
 LXDE (Lightweight X11 Desktop Environment) is simple desktop environment with beautiful design that doesn't consume a lot of RAM
 ### What's the Linux Mint?
