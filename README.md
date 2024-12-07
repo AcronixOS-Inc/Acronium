@@ -5,11 +5,11 @@ LXDE (Lightweight X11 Desktop Environment) is simple desktop environment with be
 ### What's the Linux Mint?
 Linux Mint is a Linux distribution, based on Ubuntu. Mint is user-friendly system and not consume a lot of PC resources
 # Requirements
-Minimal system requrements:
-- At least 768 Mb RAM
+### Minimal system requrements:
+- At least 1024 Mb RAM (on iceWM)
 - Intel Pentium 3 or equal
 - 20 Gb of free space on HDD
-Recommended system requirements:
+### Recommended system requirements:
 - 3 Gb RAM
 - Intel Core i5 1st gen/i3 2nd gen processor
 - 70 Gb of free space on HDD or SSD
@@ -27,7 +27,7 @@ You need:
 ### Linux instructions
 1. Download balenaEtcher from [official website](https://etcher.io)
 2. Download latest version from Acronium distribution from this repo
-3. Open Rufus and insert your USB device
+3. Open balenaEtcher and insert your USB device
 4. Select ISO and start writing process
 5. When ISO successfully written, eject your USB
 ## Starting Acronium Live
